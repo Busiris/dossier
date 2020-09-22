@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css"/>
+     <title>Google</title>
+</head>
+<body>
+<div id="navbar">
+  <div><a href="#">Gmail</a> </div>
+  <div><a href="#">Image</a></div>
+  <div><a href="#">Connexion</a></div>
+</div>
+    <div id="content">
+  <div><a href="#">Google</a> </div>
+  <div><a href="#">Recherche Google</a></div>
+  <div><a href="#">J'ai de la chance</a></div>
+</div>
+    <div id="footer">
+  <div><a href="#">Publicité</a> </div>
+  <div><a href="#">Entreprise</a></div>
+  <div><a href="#">A propos</a></div>
+  <div><a href="#">Comment fonctionne la recherche Google</a></div>
+</div>
+    
+    
+    
+    
+</body>
+</html>
