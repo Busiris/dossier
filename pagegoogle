@@ -29,3 +29,24 @@
     
 </body>
 </html>
+
+
+
+CSS
+
+#navbar  {
+  display: flex;
+  justify-content: right; 
+}
+
+#content {
+    display: flex;
+  height: 200px;
+  align-items: center;
+}
+
+#footer {
+  display: flex;
+  justify-content: left;
+}
+
